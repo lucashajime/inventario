@@ -7,7 +7,7 @@ https://github.com/lucashajime/inventario.git
 
 ## Protótipo
 
-Link FIGMA a ser editado: (https://www.figma.com/file/a1VDbO1aNfZyulQPxT99OE/beleza-em-dia?node-id=3%3A80)
+Link FIGMA: https://www.figma.com/file/QjUs5qaxgrmD7Z3RWI1YQ9/inventario?type=design&node-id=0%3A1&mode=design&t=NfC4rRs7HzxBSVW9-1
 
 ## Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
